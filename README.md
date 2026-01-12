@@ -4,7 +4,7 @@
 This paper proposes a novel method, namely JDFNet, for jointly fusing surgical stereo depth and flow maps via self-supervised learning to boost the overall performance by leveraging relationships between the two tasks. Based on deep convolutional neural networks, the proposed method is built upon three well-designed modules for cross-domain fusion, poseguided reconstruction, and brightness-aware correction.
 
 ## Datasets
-Related datasets and preprocessing details can be found from the following three papers:
+Related datasets and preprocessing details can be found from the following four papers:
 - [x] Stereo correspondence and reconstruction of endoscopic data challenge
 - [x] Frsr: Framework for real-time scene reconstruction in robotassisted minimally invasive surgery
 - [x] Self-supervised siamese learning on stereo image pairs for depth estimation in robotic surgery
