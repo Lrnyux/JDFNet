@@ -1,4 +1,6 @@
 import argparse
+import torch
+import torch.nn
 from torch.utils.data import Dataset, DataLoader
 from utils.utils import AverageMeter, ConsoleLogger
 from models.model_flow import FlowNet
