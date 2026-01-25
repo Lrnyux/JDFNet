@@ -1,7 +1,6 @@
 # JDFNet
 
-## Proposed Method
-This paper proposes a novel method, namely JDFNet, for jointly fusing surgical stereo depth and flow maps via self-supervised learning to boost the overall performance by leveraging relationships between the two tasks. Based on deep convolutional neural networks, the proposed method is built upon three well-designed modules for cross-domain fusion, poseguided reconstruction, and brightness-aware correction.
+
 
 ## Datasets
 Related datasets and preprocessing details can be found from the following four papers:
