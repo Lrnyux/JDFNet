@@ -14,8 +14,7 @@ Related datasets and preprocessing details can be found from the following four 
 - [x] Training network for stereo depth estimation
 - [x] Training network for consecutive motion estimation
 - [x] Multitask learning
-- [ ] More details and validation methods will be available step by step in the future
-- [ ] Pretrained Models 
+
 
 ## Citation
 Please cite our work if you find this work useful for your research.
