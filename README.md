@@ -1,4 +1,4 @@
-# JDFNet
+
 
 
 
@@ -9,22 +9,5 @@ Related datasets and preprocessing details can be found from the following four 
 - [x] Self-supervised siamese learning on stereo image pairs for depth estimation in robotic surgery
 - [x] Serv-ct: A disparity dataset from cone-beam ct for validation of endoscopic 3d reconstruction
 
-
-## Implementation Details
-- [x] Training network for stereo depth estimation
-- [x] Training network for consecutive motion estimation
-- [x] Multitask learning
-
-
-## Citation
-Please cite our work if you find this work useful for your research.
-```latex
-@article{Liujdfnet2026,
-author = {Yuxuan Liu, Xinyao Zhou, Yating Luo, Yunfei Luan, Yao Guo and Guang-Zhong Yang},
-title = {Simultaneous Surgical Stereo Depth and Motion Estimation via Brightness-aware Self-supervised Learning},
-journal = {},
-pages = {},
-year = {2026},
- } 
   
 ```
